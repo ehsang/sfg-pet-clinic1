@@ -46,15 +46,21 @@
                     <autoVersionSubmodules> true </autoVersionSubmodules>
                 </configuration>
             </plugin>
+
         </plugins>
     </build>
 
-    <scm>
+    <!--<scm>
         <developerConnection>
             scm:git:git@github.com//github.com/ehsang/sfg-pet-clinic.git
         </developerConnection>
       <tag>sfg-pet-clinic-0.0.1-SNAPSHOT</tag>
-  </scm>
+  </scm>-->
+
+    <scm>
+        <developerConnection>scm:git:git@github.com:ehsang/sfg-pet-clinic.git</developerConnection>
+        <tag>HEAD</tag>
+    </scm>
 
     <!--
     <scm>
