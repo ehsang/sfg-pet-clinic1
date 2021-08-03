@@ -58,7 +58,7 @@
   </scm>-->
 
     <scm>
-        <developerConnection>scm:git:git@github.com:ehsang/sfg-pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/ehsang/sfg-pet-clinic.git </developerConnection>
         <tag>HEAD</tag>
     </scm>
 
