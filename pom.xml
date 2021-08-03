@@ -55,9 +55,17 @@
         </developerConnection>
       <tag>sfg-pet-clinic-0.0.1-SNAPSHOT</tag>
   </scm>-->
+    <!--
     <scm>
         <url>https://github.com/ehsang/sfg-pet-clinic.git</url>
         <connection>scm:git:https://github.com/ehsang/sfg-pet-clinic.git</connection>
+    </scm>-->
+
+    <scm>
+        <connection>scm:git:git@github.com:ehsang/sfg-pet-clinic.git</connection>
+        <developerConnection>scm:git:git@github.com:ehsang/sfg-pet-clinic.git</developerConnection>
+        <url>git@github.com:ehsang/sfg-pet-clinic.git</url>
+        <tag>HEAD</tag>
     </scm>
 
 </project>
