@@ -62,7 +62,7 @@
     </scm>-->
 
     <scm>
-        <connection>scm:git:git@github.com:ehsang/sfg-pet-clinic.git</connection>
+        <connection> git remote set-url origin git@github.com:ehsang:/sfg-pet-clinic.git </connection>
         <developerConnection>scm:git:git@github.com:ehsang/sfg-pet-clinic.git</developerConnection>
         <url>git@github.com:ehsang/sfg-pet-clinic.git</url>
         <tag>HEAD</tag>
