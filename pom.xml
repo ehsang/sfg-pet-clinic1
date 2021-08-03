@@ -49,23 +49,24 @@
         </plugins>
     </build>
 
-   <!-- <scm>
+    <scm>
         <developerConnection>
             scm:git:git@github.com//github.com/ehsang/sfg-pet-clinic.git
         </developerConnection>
       <tag>sfg-pet-clinic-0.0.1-SNAPSHOT</tag>
-  </scm>-->
+  </scm>
+
     <!--
     <scm>
         <url>https://github.com/ehsang/sfg-pet-clinic.git</url>
         <connection>scm:git:https://github.com/ehsang/sfg-pet-clinic.git</connection>
     </scm>-->
 
-    <scm>
+    <!--<scm>
         <connection> git remote set-url origin git@github.com:ehsang:/sfg-pet-clinic.git </connection>
         <developerConnection>git remote set-url origin git@github.com:ehsang:/sfg-pet-clinic.git</developerConnection>
         <url>git remote set-url origin git@github.com:ehsang:/sfg-pet-clinic.git</url>
         <tag>HEAD</tag>
-    </scm>
+    </scm>-->
 
 </project>
